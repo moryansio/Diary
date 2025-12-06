@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+
+msgid "Дневник"
+msgstr "Diary"
+
+msgid "Добавить"
+msgstr "Add"
+
+msgid "Поиск"
+msgstr "Search"
+
+msgid "Удалить"
+msgstr "Delete"
+
+msgid "Все записи"
+msgstr "All Entries"
+
+msgid "Настройки"
+msgstr "Settings"
+
+msgid "Текст записи"
+msgstr "Entry text"
+
+msgid "Ключевое слово"
+msgstr "Keyword"
+
+msgid "Поиск по дате"
+msgstr "Search by date"
+
+msgid "Поиск по слову"
+msgstr "Search by keyword"
+
+msgid "Поиск по диапазону"
+msgstr "Search by range"
+
+msgid "Удалить по дате"
+msgstr "Delete by date"
+
+msgid "Удалить все"
+msgstr "Delete all"
+
+msgid "Показать"
+msgstr "Show"
+
+msgid "Выберите тему"
+msgstr "Choose theme"
+
+msgid "Выберите язык"
+msgstr "Choose language"
+
+msgid "Выберите формат даты"
+msgstr "Choose date format"
+
+msgid "Сбросить настройки"
+msgstr "Reset settings"
+
+msgid "Настройки сброшены к значениям по умолчанию."
+msgstr "Settings have been reset to default."
+
+msgid "С "
+msgstr "From "
+
+msgid "По "
+msgstr "To "
+
+msgid "Светлая"
+msgstr "Light"
+
+msgid "Тёмная"
+msgstr "Dark"
+
+msgid "Системная"
+msgstr "System"
+
+msgid "Русский"
+msgstr "Russian"
+
+msgid "English"
+msgstr "English"
+
+msgid "Формат даты установлен: "
+msgstr "Date format set: "
+
+msgid "Язык установлен: "
+msgstr "Language set: "
+
+msgid "Тема установлена: "
+msgstr "Theme set: "
+
+msgid "Настройки восстановлены."
+msgstr "Settings restored."
+
+msgid "Выбрать тему"
+msgstr "Choose theme"
+
+msgid "Выбрать язык"
+msgstr "Choose language"
+
+msgid "Выбрать формат даты"
+msgstr "Choose date form"
+
+msgid "Выберите формат даты:"
+msgstr "Choose date format:"
+
+msgid "Выберите тему:"
+msgstr "Choose theme:"
+
+msgid "Выберите язык:"
+msgstr "Choose language:"
